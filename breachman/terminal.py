@@ -104,5 +104,5 @@ def solve_grid(grid, seq, max_size):
 
 
 if __name__ == '__main__':
-    solve_grid(EXAMPLE_MATRIX, EXAMPLE_UNLOCK_SEQUENCES, 8)
+    # solve_grid(EXAMPLE_MATRIX, EXAMPLE_UNLOCK_SEQUENCES, 8)
     play(EXAMPLE_MATRIX, EXAMPLE_UNLOCK_SEQUENCES)
